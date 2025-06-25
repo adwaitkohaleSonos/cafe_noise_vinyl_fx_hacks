@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1750881450 source:c:\experiments\vinyl_effects\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<math.h>
+	<limits.h>
+	<stdbool.h>
+	"hack_effects.h"
+
+1750881596 source:c:\experiments\vinyl_effects\hack_effects.c
+	"hack_effects.h"
+
+1750881533 c:\experiments\vinyl_effects\hack_effects.h
+	<stdint.h>
+
